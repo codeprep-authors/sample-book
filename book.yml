@@ -1,4 +1,9 @@
-title: はじめてのCODEPREP
-detail: CODEPREPのBookのサンプルです。
+title: codeprepのBookの作り方
+detail: |
+  codeprepでのBookの作り方を説明するBookです。
 chapters:
   - chapter1.md
+  - chapter2.md
+  - chapter4.md
+  - chapter5.md
+  - chapter6.md
